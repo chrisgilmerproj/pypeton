@@ -1,7 +1,7 @@
 # NOTE: YOU MUST PEG EVERY REQUIREMENT TO A SPECIFIC VERSION
 
 #--- pip
-pip == 0.8.3 # pip >= 0.8.2 is required for git branch to work correctly
+pip == 21.1 # pip >= 0.8.2 is required for git branch to work correctly
 
 #--- Django
 django == 1.3
