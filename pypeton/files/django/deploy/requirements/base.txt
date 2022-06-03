@@ -10,7 +10,7 @@ simplejson ==2.1.6  # for json api's
 django-extensions
 django-debug-toolbar
 docutils == 0.7     # for django admindocs
-pygments == 1.4     # for syntax color in docutils
+pygments == 2.7.4     # for syntax color in docutils
 # django-adminfiles # for admin files
 
 #--- Databases
